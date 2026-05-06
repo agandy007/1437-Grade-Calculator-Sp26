@@ -18,4 +18,5 @@ My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
 ![The San Juan Mountains are beautiful](assets/images/san-juan-mountains-1080.webp "San Juan Mountains")
 
+<img src="assets/images/san-juan-mountains-1080.webp" width="200" height="100">
 
